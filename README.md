@@ -1,11 +1,11 @@
-# Inspector Lab · Android (prova)
+# Inspector Lab · Android (laboratori de proves)
 
-Aquest repositori distribueix únicament l'APK de proves d'Inspector Lab. El codi del projecte principal continua privat.
+Aquest repositori públic serveix exclusivament per distribuir l'APK de proves d'Inspector Lab. El codi original es conserva en un repositori privat.
 
-## Descarrega l'aplicació
+## Descarregar
 
-**[Descarrega Inspector Lab (APK)](./InspectorLab-Prova-Android.apk)**
+[**Descarregar Inspector Lab (APK)**](./app-debug.apk)
 
-> L'APK encara no s'ha verificat en un Android real. La prova no certifica el funcionament del botó Bluetooth, els auriculars ni el mòbil bloquejat. Fes servir només dades fictícies i no instal·lis en dispositius corporatius sense autorització.
+**Atenció:** l'APK publicada aquí pot correspondre a una versió anterior fins que se substitueixi per la v0.2, preparada per Android 15 (API 35). Si Android la bloqueja per ser antiga, no desactiveu Play Protect: espereu la versió actualitzada.
 
-Per instal·lar-la: obre l'APK des d'un Android i accepta la instal·lació si el dispositiu ho permet. L'usuari pot haver d'autoritzar instal·lar apps des d'aquesta font.
+La instal·lació i les funcions de botó Bluetooth, micròfon dels auriculars i pantalla bloquejada encara s'han de validar en un dispositiu real. Feu les proves únicament amb frases fictícies i amb autorització si és un dispositiu de feina.
